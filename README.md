@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning C++<br>🎯 Goals: my own website<br>🎲 Fun fact: I'm in high school.</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning C<br>🎯 Goals: my own website<br>🎲 Fun fact: I'm in high school.</p>
 
 ###
 
